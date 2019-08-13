@@ -9,6 +9,7 @@ Full listing of changes and bug fixes are not available prior to release 1.2.0 a
 * Don't parse HTML for robots meta tags by default when CDX indexing. Avoids infinite loops. [#402](https://github.com/iipc/openwayback/issues/402)
 * Avoid inserting toolbar in `<noscript>` when `headInsertJsp` is `null`. [#360](https://github.com/iipc/openwayback/issues/360)
 * This is a test.
+
 * Will the above still conflict?
 
 ## OpenWayback 2.4.0 Release
